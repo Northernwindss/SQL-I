@@ -1,4 +1,4 @@
-DROP TABLE IF EXISTS account_order
+DROP TABLE IF EXISTS account_order;
 
 CREATE TABLE account_order
 (
