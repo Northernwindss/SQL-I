@@ -19,14 +19,13 @@
 
 ### MySQL
 
-- cost money.
 - syntax is the same.
 - most things transfer over very easily.
 - Be Sure to include `postgreSQL` in sql searches.
 
 ### Normalization and Schema
 
-- Normalization: to create form out of data, or to organize it so that the result of getting info is unambiguous.
+- Normalization: to create structure out of data, or to organize it so that the result of getting info is unambiguous.
 - Schema: The outline for the data, Normalizing your data creates a Schema.
 
 ## Normalize/schema Practice
@@ -215,6 +214,7 @@ WHERE id >= 10 or id <= 5
 ```
 
 - SUM / AVG / MAX / MIN
+
 ```SQL
   Select AVG(price)
   FROM product
@@ -239,7 +239,6 @@ WHERE id >= 10 or id <= 5
   SET name = 'Bob Ross'
   WHERE id = 20;
 ```
-
 
 ## SQL Injection
 
