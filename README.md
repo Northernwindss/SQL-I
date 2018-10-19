@@ -28,6 +28,12 @@
 - Normalization: to create structure out of data, or to organize it so that the result of getting info is unambiguous.
 - Schema: The outline for the data, Normalizing your data creates a Schema.
 
+### Data Relations
+
+- many to many
+- one to many
+- one to one
+
 ## Normalize/schema Practice
 
 ### Naming Conventions
