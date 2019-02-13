@@ -4,7 +4,7 @@ CREATE TABLE account
 (
 	id SERIAL PRIMARY KEY,
 	name VARCHAR(25) NOT NULL,
-	email text
+	email text NOT NULL
 );
 
 insert into account
