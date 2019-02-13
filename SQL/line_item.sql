@@ -1,4 +1,4 @@
-DROP TABLE IF EXISTS line_item
+DROP TABLE IF EXISTS line_item;
 
 CREATE TABLE line_item
 (
